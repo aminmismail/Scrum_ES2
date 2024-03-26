@@ -7,7 +7,7 @@
         fixed-header
         hover="true"
         class="div-center"
-      >  
+      > 
   
         <template v-slot:top>
           <v-toolbar>
