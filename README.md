@@ -44,7 +44,7 @@ Em seguida, execute `docker run -p 3000:3000 front`
 Para utilizar o docker-compose ao invés de rodar com o docker, basta executar `docker-compose up` ao invés da instrução anterior.
 
 
-# Backend
+# Back-End
 
 O backend foi construído utilizando Java, Spring Framework, JPA, Hibernate e PostgreSQL.
 
