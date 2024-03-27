@@ -544,7 +544,7 @@
           this.close()
         }
       }
-    }
+    } 
   
   </script>
   
