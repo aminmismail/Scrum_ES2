@@ -1,6 +1,6 @@
-# Scrum_ES2
+# Trabalho 1 - ES2
 
-#  Front-End - Exercício 1 (ES2)
+#  Front-End
 
 Este repositório contém o código-fonte para a parte de Front-End do software desenvolvido para o Exercício 1 da matéria de Engenharia de Software 2 (ES2).
 
@@ -44,7 +44,7 @@ Em seguida, execute `docker run -p 3000:3000 front`
 Para utilizar o docker-compose ao invés de rodar com o docker, basta executar `docker-compose up` ao invés da instrução anterior.
 
 
-# Backend do Trabalho de Engenharia de Software 2
+# Backend
 
 Este repositório contém o código-fonte do backend desenvolvido como parte do trabalho da disciplina de Engenharia de Software 2 (ES2). O backend foi construído utilizando Java, Spring Framework, JPA, Hibernate e PostgreSQL.
 
