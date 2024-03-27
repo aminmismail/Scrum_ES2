@@ -1,8 +1,8 @@
 # Trabalho 1 - ES2
 
-#  Front-End
+Este repositório contém o código-fonte do software desenvolvido para o Trabalho 1 da matéria de Engenharia de Software 2 (ES2).
 
-Este repositório contém o código-fonte para a parte de Front-End do software desenvolvido para o Exercício 1 da matéria de Engenharia de Software 2 (ES2).
+#  Front-End
 
 ### Requisitos abordados:
 
@@ -46,7 +46,7 @@ Para utilizar o docker-compose ao invés de rodar com o docker, basta executar `
 
 # Backend
 
-Este repositório contém o código-fonte do backend desenvolvido como parte do trabalho da disciplina de Engenharia de Software 2 (ES2). O backend foi construído utilizando Java, Spring Framework, JPA, Hibernate e PostgreSQL.
+O backend foi construído utilizando Java, Spring Framework, JPA, Hibernate e PostgreSQL.
 
 > Sistema de Gerenciamento de Projetos
 
@@ -111,8 +111,4 @@ O projeto segue uma estrutura organizada para facilitar a manutenção e escalab
 - Service: Camada de serviço que implementa a lógica de negócios.
 - Repository: Repositórios JPA para interação com o banco de dados.
 - Domain: Modelos de entidades que representam os dados persistentes.
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
