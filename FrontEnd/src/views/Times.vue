@@ -540,7 +540,7 @@
 
           } else {
               this.postTime(this.editedItem.nomeTime)
-          }
+          } 
           this.close()
         }
       }
