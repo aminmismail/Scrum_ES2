@@ -438,7 +438,7 @@
       save () {
         if (this.editedIndex > -1) {
           this.putProjetos(this.editedItem)
-        }
+        } 
         else {
           this.postProjetos(this.editedItem)
         }
