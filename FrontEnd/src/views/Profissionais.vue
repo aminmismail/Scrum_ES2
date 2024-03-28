@@ -338,7 +338,7 @@
         this.editedItem = Object.assign({}, item)
         this.dialog = true
       },
-
+ 
       deleteItem (item) {
         this.editedIndex = this.profissionais.indexOf(item)
         this.editedItem = Object.assign({}, item)
