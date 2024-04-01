@@ -27,9 +27,9 @@ Este repositório contém o código-fonte do software desenvolvido para o Trabal
 ### Instruções de uso:
 
 #### Para uso local:
-Clone o repositório para o seu computador usando `git clone https://github.com/aminmismail/ES2_Front.git`
+Clone o repositório para o seu computador usando `git clone https://github.com/aminmismail/Scrum_ES2.git`
 
-Dentro da pasta `ES2_Front`, instale as dependências com `npm install`.
+Dentro da pasta `FrontEnd` instale as dependências com `npm install`.
 
 Inicie a aplicação com `npm run dev`.
 
@@ -37,7 +37,7 @@ Acesse a aplicação no navegador em `http://localhost:3000`.
 
 #### Para uso em Docker:
 
-Primeiramente, na pasta `ES2_Front`, execute: `docker build -t front . `
+Primeiramente, na pasta `FrontEnd`, execute: `docker build -t front . `
 
 Em seguida, execute `docker run -p 3000:3000 front`
 
